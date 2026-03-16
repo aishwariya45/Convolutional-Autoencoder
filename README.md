@@ -145,7 +145,7 @@ def visualize_denoising(model, loader, num_images=5):
 
 ### Model Summary
 
-https://github.com/aishwariya45/Convolutional-Autoencoder/blob/main/Screenshot%202026-03-15%20195147.png
+![Model Summary](model_summary.png)
 
 ### Original vs Noisy Vs Reconstructed Image
 
